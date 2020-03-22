@@ -1,6 +1,6 @@
 # JustFlip(Android)
 Made with **Unity**  
-Used **Microsoft Azure PlayFab** for leaderboard and user informations.  
+Used **Microsoft Azure PlayFab** for leaderboard and login/register.  
 Used **StartApp and AppLovin** for advertisement.  
 Code path **JustFlip/Assets/Scripts**  
   

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Burakhan\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_JustFlip.946080665.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Burakhan\Desktop\JustFlip" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PlayFabEditorExtensions" t="Include">
+          <e p="Editor" t="Include">
+            <e p="PlayFabEditor.cs" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Components" t="Include">
+                <e p="ProgressBar.cs" t="Include" />
+                <e p="SubMenuComponent.cs" t="Include" />
+                <e p="TitleDataEditor.cs" t="Include" />
+                <e p="TitleDataViewer.cs" t="Include" />
+                <e p="TitleInternalDataEditor.cs" t="Include" />
+                <e p="TitleInternalDataViewer.cs" t="Include" />
+              </e>
+              <e p="Panels" t="Include">
+                <e p="PlayFabEditorAuthenticate.cs" t="Include" />
+                <e p="PlayFabEditorDataMenu.cs" t="Include" />
+                <e p="PlayFabEditorHeader.cs" t="Include" />
+                <e p="PlayFabEditorHelpMenu.cs" t="Include" />
+                <e p="PlayFabEditorMenu.cs" t="Include" />
+                <e p="PlayFabEditorSDKTools.cs" t="Include" />
+                <e p="PlayFabEditorSettings.cs" t="Include" />
+                <e p="PlayFabEditorToolsMenu.cs" t="Include" />
+              </e>
+              <e p="PlayFabEditorSDK" t="Include">
+                <e p="ISerializer.cs" t="Include" />
+                <e p="PlayFabEditorApi.cs" t="Include" />
+                <e p="PlayFabEditorHttp.cs" t="Include" />
+                <e p="PlayFabEditorModels.cs" t="Include" />
+                <e p="SimpleJson.cs" t="Include" />
+              </e>
+              <e p="Utils" t="Include">
+                <e p="EditorCoroutine.cs" t="Include" />
+                <e p="PlayFabEditorDataService.cs" t="Include" />
+                <e p="PlayFabEditorHelper.cs" t="Include" />
+                <e p="PlayFabEditorPrefsSO.cs" t="Include" />
+                <e p="PlayFabEditorUtils.cs" t="Include" />
+                <e p="PlayFabEditorVersion.cs" t="Include" />
+                <e p="PlayFabGuiFieldHelper.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="PlayFabSdk" t="Include">
+          <e p="Admin" t="Include">
+            <e p="PlayFabAdminAPI.cs" t="Include" />
+            <e p="PlayFabAdminModels.cs" t="Include" />
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabSettings.cs" t="Include" />
+          </e>
+          <e p="Authentication" t="Include">
+            <e p="PlayFabAuthenticationAPI.cs" t="Include" />
+            <e p="PlayFabAuthenticationModels.cs" t="Include" />
+            <e p="PlayFabEvents.cs" t="Include" />
+          </e>
+          <e p="Client" t="Include">
+            <e p="PlayFabClientAPI.cs" t="Include" />
+            <e p="PlayFabClientModels.cs" t="Include" />
+            <e p="PlayFabDeviceUtil.cs" t="Include" />
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabIdfa.cs" t="Include" />
+            <e p="PlayFabSettings.cs" t="Include" />
+          </e>
+          <e p="CloudScript" t="Include">
+            <e p="PlayFabCloudScriptAPI.cs" t="Include" />
+            <e p="PlayFabCloudScriptModels.cs" t="Include" />
+            <e p="PlayFabEvents.cs" t="Include" />
+          </e>
+          <e p="Data" t="Include">
+            <e p="PlayFabDataAPI.cs" t="Include" />
+            <e p="PlayFabDataModels.cs" t="Include" />
+            <e p="PlayFabEvents.cs" t="Include" />
+          </e>
+          <e p="Entity" t="Include">
+            <e p="ScreenTimeTracker.cs" t="Include" />
+          </e>
+          <e p="Events" t="Include">
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabEventsAPI.cs" t="Include" />
+            <e p="PlayFabEventsModels.cs" t="Include" />
+          </e>
+          <e p="Groups" t="Include">
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabGroupsAPI.cs" t="Include" />
+            <e p="PlayFabGroupsModels.cs" t="Include" />
+          </e>
+          <e p="link.xml" t="Include" />
+          <e p="Localization" t="Include">
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabLocalizationAPI.cs" t="Include" />
+            <e p="PlayFabLocalizationModels.cs" t="Include" />
+          </e>
+          <e p="Matchmaker" t="Include">
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabMatchmakerAPI.cs" t="Include" />
+            <e p="PlayFabMatchmakerModels.cs" t="Include" />
+          </e>
+          <e p="Profiles" t="Include">
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabProfilesAPI.cs" t="Include" />
+            <e p="PlayFabProfilesModels.cs" t="Include" />
+          </e>
+          <e p="Server" t="Include">
+            <e p="PlayFabEvents.cs" t="Include" />
+            <e p="PlayFabServerAPI.cs" t="Include" />
+            <e p="PlayFabServerModels.cs" t="Include" />
+            <e p="PlayFabSettings.cs" t="Include" />
+            <e p="PlayStream" t="Include">
+              <e p="PlayFabPlayStreamAPI.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shared" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PlayFabHelp.cs" t="Include" />
+            </e>
+            <e p="Internal" t="Include">
+              <e p="ISerializer.cs" t="Include" />
+              <e p="Log.cs" t="Include" />
+              <e p="PlayFabErrors.cs" t="Include" />
+              <e p="PlayFabHttp" t="Include">
+                <e p="IPlayFabHttp.cs" t="Include" />
+                <e p="PlayFabHTTP.cs" t="Include" />
+                <e p="PlayFabUnityHttp.cs" t="Include" />
+                <e p="PlayFabWebRequest.cs" t="Include" />
+                <e p="PlayFabWWW.cs" t="Include" />
+              </e>
+              <e p="PlayFabSignalR" t="Include">
+                <e p="IPlayFabSignalR.cs" t="Include" />
+                <e p="PlayFabSignalR.cs" t="Include" />
+              </e>
+              <e p="SimpleJson.cs" t="Include" />
+              <e p="SingletonMonoBehaviour.cs" t="Include" />
+              <e p="Util.cs" t="Include" />
+              <e p="wsaReflectionExtensions.cs" t="Include" />
+            </e>
+            <e p="Ionic.Zlib" t="Include">
+              <e p="CRC32.cs" t="Include" />
+              <e p="Deflate.cs" t="Include" />
+              <e p="DeflateStream.cs" t="Include" />
+              <e p="GZipStream.cs" t="Include" />
+              <e p="Inflate.cs" t="Include" />
+              <e p="InfTree.cs" t="Include" />
+              <e p="ParallelDeflateOutputStream.cs" t="Include" />
+              <e p="Zlib.cs" t="Include" />
+              <e p="ZlibBaseStream.cs" t="Include" />
+              <e p="ZlibCodec.cs" t="Include" />
+              <e p="ZlibConstants.cs" t="Include" />
+              <e p="ZlibStream.cs" t="Include" />
+              <e p="ZTree.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="Editor" t="Include">
+                <e p="MakeSharedSettingsObj.cs" t="Include" />
+              </e>
+              <e p="PlayFabSharedSettings.cs" t="Include" />
+              <e p="SharedModels.cs" t="Include" />
+            </e>
+            <e p="Public" t="Include">
+              <e p="IPlayFabPlugin.cs" t="Include" />
+              <e p="IPlayFabTransportPlugin.cs" t="Include" />
+              <e p="ISerializerPlugin.cs" t="Include" />
+              <e p="ITransportPlugin.cs" t="Include" />
+              <e p="PlayFabDataGatherer.cs" t="Include" />
+              <e p="PlayFabEvents.cs" t="Include" />
+              <e p="PlayFabLogger.cs" t="Include" />
+              <e p="PlayFabSettings.cs" t="Include" />
+              <e p="PlayStream" t="Include">
+                <e p="PlayStreamEventDataModels.cs" t="Include" />
+              </e>
+              <e p="PluginContract.cs" t="Include" />
+              <e p="PluginManager.cs" t="Include" />
+            </e>
+            <e p="SignalR.NET20" t="Include">
+              <e p="Connection.cs" t="Include" />
+              <e p="ConnectionExtensions.cs" t="Include" />
+              <e p="DisposableAction.cs" t="Include" />
+              <e p="Http" t="Include">
+                <e p="CallbackDetail.cs" t="Include" />
+                <e p="DefaultHttpClient.cs" t="Include" />
+                <e p="HttpHelper.cs" t="Include" />
+                <e p="HttpWebRequestWrapper.cs" t="Include" />
+                <e p="HttpWebResponseWrapper.cs" t="Include" />
+                <e p="IHttpClient.cs" t="Include" />
+                <e p="IHttpClientExtensions.cs" t="Include" />
+                <e p="IRequest.cs" t="Include" />
+                <e p="IResponse.cs" t="Include" />
+                <e p="RequestState.cs" t="Include" />
+              </e>
+              <e p="Hubs" t="Include">
+                <e p="HubConnection.cs" t="Include" />
+                <e p="HubInvocation.cs" t="Include" />
+                <e p="HubMethodAttribute.cs" t="Include" />
+                <e p="HubProxy.cs" t="Include" />
+                <e p="HubRegistrationData.cs" t="Include" />
+                <e p="HubResult.cs" t="Include" />
+                <e p="Hubservable.cs" t="Include" />
+                <e p="IHubProxy.cs" t="Include" />
+                <e p="IObservable.cs" t="Include" />
+                <e p="IObserver.cs" t="Include" />
+                <e p="ProxyExtensions.cs" t="Include" />
+                <e p="Subscription.cs" t="Include" />
+              </e>
+              <e p="IConnection.cs" t="Include" />
+              <e p="Infrastructure" t="Include">
+                <e p="ChunkBuffer.cs" t="Include" />
+                <e p="DisposableAction.cs" t="Include" />
+                <e p="StreamExtensions.cs" t="Include" />
+                <e p="StreamState.cs" t="Include" />
+                <e p="UriQueryUtility.cs" t="Include" />
+              </e>
+              <e p="NegotiationResponse.cs" t="Include" />
+              <e p="Transports" t="Include">
+                <e p="AsyncStreamReader.cs" t="Include" />
+                <e p="AutoTransport.cs" t="Include" />
+                <e p="CancellationTokenSource.cs" t="Include" />
+                <e p="CustomEventArgs.cs" t="Include" />
+                <e p="EventSignal.cs" t="Include" />
+                <e p="HttpBasedTransport.cs" t="Include" />
+                <e p="IClientTransport.cs" t="Include" />
+                <e p="LongPollingTransport.cs" t="Include" />
+                <e p="OptionalEventSignal.cs" t="Include" />
+                <e p="ServerSentEventsTransport.cs" t="Include" />
+                <e p="SseEvent.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="AppLovin" t="Include">
+            <e p="AppLovin Readme.txt" t="Include" />
+            <e p="AppLovin.cs" t="Include" />
+            <e p="AppLovinEvents.cs" t="Include" />
+          </e>
+          <e p="UDP" t="Include">
+            <e p="UdpSupport" t="Include">
+              <e p="SampleScene" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="GameManager.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="UnityChannel" t="Include">
+            <e p="XiaomiSupport" t="Include">
+              <e p="AppStoreSettings.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="AppStoreModel.cs" t="Include" />
+                <e p="AppStoreOnboardApi.cs" t="Include" />
+                <e p="AppStoreSettingsEditor.cs" t="Include" />
+                <e p="XiaomiPackageNameExtension.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="UnityPurchasing" t="Include">
+            <e p="Editor" t="Include">
+              <e p="IAPButtonEditor.cs" t="Include" />
+              <e p="IAPGeneratedCredentials.cs.template" t="Include" />
+            </e>
+            <e p="script" t="Include">
+              <e p="CodelessIAPStoreListener.cs" t="Include" />
+              <e p="ComboBox.cs" t="Include" />
+              <e p="Demo" t="Include">
+                <e p="DemoInventory.cs" t="Include" />
+              </e>
+              <e p="IAPButton.cs" t="Include" />
+              <e p="IAPConfigurationHelper.cs" t="Include" />
+              <e p="IAPDemo.cs" t="Include" />
+              <e p="IAPDemoProductUI.cs" t="Include" />
+              <e p="IAPListener.cs" t="Include" />
+              <e p="link.xml" t="Include" />
+              <e p="PurchasingCheck.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="StartAppData.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ADStarter.cs" t="Include" />
+          <e p="AnimationEvents" t="Include">
+            <e p="CrackedPlayButtonEvents.cs" t="Include" />
+            <e p="GameLogoEvents.cs" t="Include" />
+            <e p="LinesEvents.cs" t="Include" />
+            <e p="PausePanelEvents.cs" t="Include" />
+            <e p="PlayButtonEvents.cs" t="Include" />
+            <e p="UIEvents.cs" t="Include" />
+          </e>
+          <e p="Effects" t="Include">
+            <e p="CameraShakeEffect.cs" t="Include" />
+            <e p="EffectEvents.cs" t="Include" />
+            <e p="LightningEffect.cs" t="Include" />
+            <e p="LineEffect.cs" t="Include" />
+            <e p="LoginJustEffect.cs" t="Include" />
+            <e p="ObstacleEffect.cs" t="Include" />
+          </e>
+          <e p="EMPPanelPriceHandler.cs" t="Include" />
+          <e p="GamePlay" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="GameBall.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="LeaderboardInitializer.cs" t="Include" />
+            <e p="Lines.cs" t="Include" />
+            <e p="Obstacle.cs" t="Include" />
+            <e p="ScoreHandler.cs" t="Include" />
+            <e p="TempStarter.cs" t="Include" />
+            <e p="Tutorial.cs" t="Include" />
+          </e>
+          <e p="JustFlipClient.cs" t="Include" />
+          <e p="LoginWindowView.cs" t="Include" />
+          <e p="PlayFabAuthService.cs" t="Include" />
+          <e p="Purchaser.cs" t="Include" />
+          <e p="TouchInput" t="Include">
+            <e p="DoneButtonTouchInput.cs" t="Include" />
+            <e p="EMPLogoTouchInput.cs" t="Include" />
+            <e p="EMPPanelBackButtonTouchInput.cs" t="Include" />
+            <e p="FacebookLogoTouchInput.cs" t="Include" />
+            <e p="FXButtonTouchInput.cs" t="Include" />
+            <e p="InstagramLogoTouchInput.cs" t="Include" />
+            <e p="LanguageButtonTouchInput.cs" t="Include" />
+            <e p="LeaderboardBackButtonTouchInput.cs" t="Include" />
+            <e p="LineTouchInput.cs" t="Include" />
+            <e p="MainMenuTouchInput.cs" t="Include" />
+            <e p="MusicButtonTouchInput.cs" t="Include" />
+            <e p="PauseButtonTouchInput.cs" t="Include" />
+            <e p="PlayButtonTouch.cs" t="Include" />
+            <e p="RestartButtonTouchInput.cs" t="Include" />
+            <e p="ResumeButtonTouchInput.cs" t="Include" />
+            <e p="ReviverShockScreenTouchInput.cs" t="Include" />
+            <e p="ScoreBoardLogoTouchInput.cs" t="Include" />
+            <e p="SoundLogoTouchInput.cs" t="Include" />
+            <e p="TwitterLogoTouchInput.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StartAppBackPlugin.cs" t="Include" />
+        <e p="StartAppBannerPlugin.cs" t="Include" />
+        <e p="StartAppWrapper.cs" t="Include" />
+      </e>
+      <e p="JustFlip.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

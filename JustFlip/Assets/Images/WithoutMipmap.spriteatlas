@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WithoutMipmap
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 54
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 54
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2628c7db1b631d845b89299191c225b4, type: 3}
+    totalSpriteSurfaceArea: 10114477
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a6df3bb04ccc3b1459d3f5bcb2d59dee, type: 3}
+  - {fileID: 21300000, guid: 9c6e8b32bb1bc0940a05ac6684f94545, type: 3}
+  - {fileID: 21300000, guid: 5adfdb9278e646643b73355f646186d7, type: 3}
+  - {fileID: 21300000, guid: 476c43c21a102f34593f46295e099183, type: 3}
+  - {fileID: 21300000, guid: 581a5a039089b0444a851002e7ccb802, type: 3}
+  - {fileID: 21300000, guid: 1c7773339367cfa4186cf632e6e303c1, type: 3}
+  - {fileID: 21300000, guid: 538e86430ce5acb41839102405216ede, type: 3}
+  - {fileID: 21300000, guid: 32f034738571844419dd9e7ae33dff49, type: 3}
+  - {fileID: 21300000, guid: 1775ad73739c448428ac20d00cfbef37, type: 3}
+  - {fileID: 21300000, guid: 3a9caca372cdbc443a4f49e2c2f87e3e, type: 3}
+  - {fileID: 21300000, guid: 2528cfa3390fc1942a87084ac2e7d1aa, type: 3}
+  - {fileID: 21300000, guid: ce73fbc3ed338544cb0eb56eb5b4792e, type: 3}
+  - {fileID: 21300000, guid: f2c582e37941cdb4f9606b2ff5a42b24, type: 3}
+  - {fileID: 21300000, guid: 8b6b71249d4ca1d44af2e22ab94e1655, type: 3}
+  - {fileID: 21300000, guid: f7bc722462181324d9bfbfb0be434d4c, type: 3}
+  - {fileID: 21300000, guid: 8f583564b690e5f42a4003369de71de1, type: 3}
+  - {fileID: 21300000, guid: 45c8dfa430ca63c459fb7bd2edc7cc2f, type: 3}
+  - {fileID: 21300000, guid: 69655fb46bb9ec5458589d66ac724120, type: 3}
+  - {fileID: 21300000, guid: 089b2ad4bd1d07449829397ac901f92b, type: 3}
+  - {fileID: 21300000, guid: 26e76385bf84f57488637f4e81995783, type: 3}
+  - {fileID: 21300000, guid: 063233168f285ca428669843acba306b, type: 3}
+  - {fileID: 21300000, guid: 3457d436051eb4c458839a846bc3fabe, type: 3}
+  - {fileID: 21300000, guid: 44e28b66b9cfb394794904974c3ac05a, type: 3}
+  - {fileID: 21300000, guid: e9bba2964dd38b84b924685162fe84c8, type: 3}
+  - {fileID: 21300000, guid: e240bfc66c9cf934b8c05ea8f8c48f27, type: 3}
+  - {fileID: 21300000, guid: 3219f4f60a3a636449aaf32bcd2b671c, type: 3}
+  - {fileID: 21300000, guid: 2d57a347c0d71f442bc7d823afdc5ee8, type: 3}
+  - {fileID: 21300000, guid: 9564cc578db7df14494c887988aa316a, type: 3}
+  - {fileID: 21300000, guid: 466597976242298428145cc29f518b90, type: 3}
+  - {fileID: 21300000, guid: 499c3da718022104f8ef430ada28a238, type: 3}
+  - {fileID: 21300000, guid: 59c1eae71b5c3774f93a88dcfc77dcb2, type: 3}
+  - {fileID: 21300000, guid: 3ed3f5f78079caf4a9cf3345eb468e11, type: 3}
+  - {fileID: 21300000, guid: 1cf866f7844bfef4ca06a3771c7aa7c1, type: 3}
+  - {fileID: 21300000, guid: a8cb49088f826994dba79543f3124624, type: 3}
+  - {fileID: 21300000, guid: be9525288e2a6ad4abf04428e3caf8b1, type: 3}
+  - {fileID: 21300000, guid: a2963968d2f82d44096285bac37df63c, type: 3}
+  - {fileID: 21300000, guid: d8ff7c780daa10c46a76e4fcf10cc416, type: 3}
+  - {fileID: 21300000, guid: 9f5e12c886d02b7459eec67a00c1afd2, type: 3}
+  - {fileID: 21300000, guid: 9e3636c8e72de024a9cd7b5f7e6ff81d, type: 3}
+  - {fileID: 21300000, guid: 0af7ca09037701a429efc10c77484ce1, type: 3}
+  - {fileID: 21300000, guid: 4b3911294471d5e48a2abcd8f5136b2b, type: 3}
+  - {fileID: 21300000, guid: 72d83f29edc6f1641be387c471e72026, type: 3}
+  - {fileID: 21300000, guid: 73a6c24999d007947805f1eddc463a37, type: 3}
+  - {fileID: 21300000, guid: b9340f69eb0b28b41973de50e95d16a3, type: 3}
+  - {fileID: 21300000, guid: fa9314b9d144c434abb70dd6ab787b06, type: 3}
+  - {fileID: 21300000, guid: 64bb037a138299241b1c590181a8cf08, type: 3}
+  - {fileID: 21300000, guid: 72b5a2dae5380474aa8ef59c3bf2ecd4, type: 3}
+  - {fileID: 21300000, guid: 0858080b42478794aa92868b0a36fcfa, type: 3}
+  - {fileID: 21300000, guid: 0f1c080b3030c884096d7b7026f42878, type: 3}
+  - {fileID: 21300000, guid: a270abab0de20a5408797acf341d17c1, type: 3}
+  - {fileID: 21300000, guid: c503d2db6fe1b1d4fa26688283659fcf, type: 3}
+  - {fileID: 21300000, guid: f595e63cbbc2f78498a0a745a95e8615, type: 3}
+  - {fileID: 21300000, guid: 5f2b3a3c4e4afee48803941b4427bfb4, type: 3}
+  - {fileID: 21300000, guid: 8c16569c30fd89e42a722f209d8124d8, type: 3}
+  - {fileID: 21300000, guid: 388939ac51a89a240b9d10b2d22f544d, type: 3}
+  - {fileID: 21300000, guid: 205631bcd02d7504ab33a598caf9103e, type: 3}
+  - {fileID: 21300000, guid: 7da788cc04e74944e8ebf8c3da4526d4, type: 3}
+  - {fileID: 21300000, guid: f43d4bdc702b4b8449d6ee1906913969, type: 3}
+  - {fileID: 21300000, guid: e8d3ee0de41d61647916651c90784ee3, type: 3}
+  - {fileID: 21300000, guid: 76dc0a1ddca617844b43438d3c862514, type: 3}
+  - {fileID: 21300000, guid: d3e7d0ad7b938d94e8e4d9a0f6eda8c5, type: 3}
+  - {fileID: 21300000, guid: 66f0030e9646fb84193b9819754c579a, type: 3}
+  - {fileID: 21300000, guid: 0c28a51e4bd66a34299032d827bda84d, type: 3}
+  - {fileID: 21300000, guid: 1feb9f2ec1a3a534ca12ce7bf6f40635, type: 3}
+  - {fileID: 21300000, guid: 40e2e73e144497442891ea601837744e, type: 3}
+  - {fileID: 21300000, guid: 5d57fb5e6eb51d54d8a9673719b15954, type: 3}
+  - {fileID: 21300000, guid: 636d5a8e5cdef0e4e9aa0d082ef03f3e, type: 3}
+  - {fileID: 21300000, guid: ba7508de6498aad48a2eaffd0ed7990f, type: 3}
+  - {fileID: 21300000, guid: 30367b1f08a079444bec2287bbb22fa6, type: 3}
+  - {fileID: 21300000, guid: 0022a44f1a76e9940adaef24ad70d150, type: 3}
+  - {fileID: 21300000, guid: 7d02465fac5fa4947b6ac502a2c51543, type: 3}
+  - {fileID: 21300000, guid: 9da22c6fc566c3b4783cbce1b95f6881, type: 3}
+  - {fileID: 21300000, guid: cce47c9f4d055324491f9e7072c86b89, type: 3}
+  - {fileID: 21300000, guid: 035009dfdacd38a42b04807650abf6c3, type: 3}
+  - {fileID: 21300000, guid: 2c3b50ffb7e97c44b898d5fed795c4dd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - LightningPart1
+  - Play Button
+  - Restart
+  - Pause Image
+  - FX Image_Glow
+  - Sound Image
+  - Game Logo Back Line_Glow
+  - Score_Glow
+  - Music Logo_Glow
+  - LightningPart3
+  - Game Logo Flip_Glow
+  - Twitter Image
+  - BackLightning3
+  - Game Logo Flip
+  - Play Button Orange Circle_Glow
+  - Pause Panel Orange Rectangle_Glow
+  - LeaderboardOrangeLine
+  - Triangle Grey
+  - Twitter Image_Glow
+  - Main Menu Button_Glow
+  - Instagram Image
+  - Pause Image_Glow
+  - Line_Glow_High
+  - Sound Open Line_Glow
+  - Pause Panel ORange Rectangle
+  - Ball Electricity
+  - Facebook Logo
+  - Double Point_Glow
+  - ScoreBoard_Glow-01
+  - Game Logo Just_Glow
+  - Highest
+  - Highest_Glow
+  - Resume_Glow
+  - Double Point
+  - Remain Time_Glow
+  - Play Button_Glow
+  - Main Menu Button
+  - EMPsymbol
+  - Line_Glow
+  - Pause Panel Half
+  - ExitButton
+  - FX Image
+  - EMPsymbol_Glow
+  - Blue Circle Smooth
+  - Game Logo Just
+  - Circle Electricity
+  - OrangeTriangleParticle
+  - Sound Image_Glow
+  - Remain Time
+  - Triangle Orange
+  - Blue Circle_Glow
+  - LightningPart2
+  - Instagram Image_Glow
+  - Resume
+  - Game Logo Back Line
+  - LightningPart4
+  - Line
+  - Game Logo Orange Triangle
+  - Restart_Glow
+  - Play Button Orange Circle
+  - LineEffect
+  - BlueSpark
+  - Play Button Part
+  - Music Logo
+  - Tutorial Background
+  - BackLightning2
+  - Blue Circle
+  - Ball Big Grey
+  - SparkImage
+  - Game Logo orange Triangle_Glow
+  - Facebook Logo_Glow
+  - Score
+  - ScoreBoardLogo
+  - Triangle Orange_Glow
+  - BackLightning1
+  m_Tag: WithoutMipmap
+  m_IsVariant: 0

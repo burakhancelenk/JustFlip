@@ -1,8 +1,16 @@
 # JustFlip(Android)
-* Made with **Unity**.  
-* Used **Microsoft Azure PlayFab** for leaderboard and login/register.  
+## Technical Details  
+  
+* Made with **Unity and C#**.  
+* Used **Microsoft Azure PlayFab** service for leaderboard and login/register.  
 * Used **StartApp and AppLovin** for advertisement.  
-* Code path **JustFlip/Assets/Scripts**  
+* Used **In-App purchases**(GameCenter for iOS, GooglePlayServices for Android).  
+* JustFlip doesn't exist in AppStore(Apple) because of the expiry of the contract(developer has to pay 100$ every year for puplishing app)
+* Code path; **JustFlip/Assets/Scripts**  
+  
+## Game Logic  
+  
+Small triangles shows where the player should direct the blue circle. The player tries to make score as high as he/she can. Leaderboard lists all the scores from the highest to the lowest, so he/she can see his/her rank. There are small tricks and traps which make the game more fun.
   
 ## Screenshots 
 

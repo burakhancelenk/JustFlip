@@ -6,7 +6,7 @@
 * Used **StartApp and AppLovin** for advertisement.  
 * Used **In-App purchases**(GameCenter for iOS, GooglePlayServices for Android).  
 * JustFlip doesn't exist in AppStore(Apple) because of the expiry of the contract(developer has to pay 100$ every year for puplishing app)
-* Code path; **JustFlip/Assets/Scripts**  
+* Code files directory; **JustFlip/Assets/Scripts**  
   
 ## Game Logic  
   
